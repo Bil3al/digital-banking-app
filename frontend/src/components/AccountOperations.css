@@ -1,0 +1,44 @@
+.operations-container {
+  width: 100%;
+}
+
+.operation-form {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+}
+
+.operation-form h3 {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.account-selector {
+  margin-bottom: 1.5rem;
+}
+
+.account-selector label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #555;
+  font-weight: 500;
+}
+
+.account-selector select {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.operations-list {
+  margin-top: 2rem;
+}
+
+.operations-list h3 {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
